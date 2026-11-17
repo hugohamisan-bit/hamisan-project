@@ -16,5 +16,5 @@ box-shadw: 0 4px 8px rgba(0,0,0,0.1);
 
 .kartu-profil img {
 width: 150px
-border radius-radius: 45%; /* trik untuk mebuat gambar persegi menjadi lingkara sempurna */
+border-radius: 50%; /* trik untuk mebuat gambar persegi menjadi lingkara sempurna */
 }
